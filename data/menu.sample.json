@@ -1,0 +1,12 @@
+[
+  {"id":"rice-tomato-egg","name":"番茄鸡蛋饭","price":12,"cuisine":"中式","spice":0,"rating":4.5,"wait_minutes":6,"vegetarian":true,"available":true,"allergens_verified":true,"allergens":["鸡蛋","大豆"],"ingredients":["米饭","番茄","鸡蛋","大豆"]},
+  {"id":"rice-chicken","name":"香菇鸡肉饭","price":16,"cuisine":"中式","spice":1,"rating":4.7,"wait_minutes":10,"vegetarian":false,"available":true,"allergens_verified":true,"allergens":["大豆"],"ingredients":["米饭","鸡肉","香菇","大豆"]},
+  {"id":"beef-noodles","name":"清汤牛肉面","price":18,"cuisine":"面食","spice":0,"rating":4.6,"wait_minutes":8,"vegetarian":false,"available":true,"allergens_verified":true,"allergens":["小麦"],"ingredients":["小麦","牛肉","葱"]},
+  {"id":"tofu-rice","name":"青菜豆腐饭","price":11,"cuisine":"中式","spice":0,"rating":4.1,"wait_minutes":5,"vegetarian":true,"available":true,"allergens_verified":true,"allergens":["大豆"],"ingredients":["米饭","青菜","豆腐","大豆"]},
+  {"id":"salad","name":"田园鹰嘴豆沙拉","price":20,"cuisine":"轻食","spice":0,"rating":4.3,"wait_minutes":4,"vegetarian":true,"available":true,"allergens_verified":true,"allergens":["芝麻"],"ingredients":["鹰嘴豆","生菜","番茄","芝麻"]},
+  {"id":"spicy-chicken","name":"宫保鸡丁饭","price":17,"cuisine":"中式","spice":2,"rating":4.8,"wait_minutes":12,"vegetarian":false,"available":true,"allergens_verified":true,"allergens":["花生","大豆"],"ingredients":["米饭","鸡肉","花生","辣椒","大豆"]},
+  {"id":"sesame-noodles","name":"芝麻拌面","price":13,"cuisine":"面食","spice":1,"rating":4.4,"wait_minutes":7,"vegetarian":true,"available":true,"allergens_verified":true,"allergens":["小麦","芝麻","花生"],"ingredients":["小麦","芝麻","花生","黄瓜"]},
+  {"id":"fish-rice","name":"清蒸鱼套餐","price":25,"cuisine":"中式","spice":0,"rating":4.7,"wait_minutes":18,"vegetarian":false,"available":true,"allergens_verified":true,"allergens":["鱼","大豆"],"ingredients":["米饭","鱼","大豆"]},
+  {"id":"seasonal","name":"时令特餐（信息待核实）","price":14,"cuisine":"中式","spice":0,"rating":4.2,"wait_minutes":9,"vegetarian":false,"available":true,"allergens_verified":false,"allergens":[],"ingredients":["米饭","季节食材"]},
+  {"id":"sold-out","name":"售罄测试套餐","price":10,"cuisine":"中式","spice":0,"rating":5,"wait_minutes":1,"vegetarian":true,"available":false,"allergens_verified":true,"allergens":["鸡蛋"],"ingredients":["米饭","鸡蛋"]}
+]
