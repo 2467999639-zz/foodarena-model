@@ -1,0 +1,12 @@
+{
+  "profile": {
+    "budget": 18,
+    "max_spice": 1,
+    "preferred_spice": 0,
+    "vegetarian": false,
+    "allergens": ["花生"],
+    "disliked_ingredients": [],
+    "preferred_cuisines": ["中式"]
+  },
+  "top_k": 3
+}
