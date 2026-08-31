@@ -1,0 +1,22 @@
+{
+  "version": "0.1.0",
+  "model_type": "pairwise-logistic-linear",
+  "features": [
+    "affordability",
+    "rating",
+    "speed",
+    "cuisine_match",
+    "spice_match"
+  ],
+  "weights": [
+    1.9961053618976317,
+    0.23325441062323743,
+    0.45014705533869487,
+    3.4155510945322667,
+    2.3135626207098112
+  ],
+  "seed": 42,
+  "epochs": 180,
+  "data_sha256": "66c2631ab64f5c10c6ae11ed8377f3cf2f38c1ac2b113363bc999c26ea3b1209",
+  "data_source": "synthetic-demo"
+}
