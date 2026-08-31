@@ -1,0 +1,9 @@
+{
+  "train_pairs": 960,
+  "validation_pairs": 240,
+  "pairwise_accuracy": 0.7625,
+  "log_loss": 0.4737,
+  "split": "seeded random pair split; use user/time split for real data",
+  "seed": 42,
+  "data_source": "synthetic-demo"
+}
